@@ -15,6 +15,15 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 1. **Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.**
 Plan:
 
+Template: Head body, Main, Footer, Div
+1)Text for header and main footer 
+2)Work on H1 (name, pronouns, loc)
+3)Add button and hidden div
+4)Hidden
+5)Add the click event listener
+6)Make it purdy with setting up rows in css for botton and then for picture. Go for 4 rows maybe and then only fill the middle 2.
+
+
 Additional considerations:
 
 -   Ask: which of your HTML elements need to be hard coded, and which need to be dynamically generated?
