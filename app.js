@@ -3,7 +3,7 @@
 // grab DOM elements
 const showButton = document.getElementById('animalButton');
 const animal = document.getElementById('animalDiv');
-const animalTxt = document.getElementById('animalText')
+const animalTxt = document.getElementById('animalText');
 
 // set event listeners 
     // get user input
