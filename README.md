@@ -16,12 +16,12 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 Plan:
 
 Template: Head body, Main, Footer, Div
-1)Text for header and main footer 
+1)Text for header and main footer
 2)Work on H1 (name, pronouns, loc)
 3)Add button and hidden div
 4)Hidden
 5)Add the click event listener
-6)Make it purdy with setting up rows in css for botton and then for picture. Go for 4 rows maybe and then only fill the middle 2.
+6)Make it pretty with setting up rows in css for button and then for picture. Go for 4 rows maybe and then only fill the middle 2.
 
 
 Additional considerations:
