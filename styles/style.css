@@ -1,7 +1,7 @@
 body {
     /* feel free to update these css variables for a quick theme */
 
-   /* --color1: rbg#013A20;
+    /* --color1: rbg#013A20;
     --color2:  rbg#478C5C;
     --color3:  rbg#BACC81;
     --color4: rbg#CDD193;
@@ -13,9 +13,9 @@ body {
     --color2: hsla(207, 67%, 44%, 1);
     --color3: hsla(200, 61%, 56%, 1);
     --color4: hsla(187, 41%, 94%, 1);
-    --color5: hsla(170, 28%, 95%, 1); */
+    --color5: hsla(170, 28%, 95%, 1); 
 
-   /* --color1: hsla(45, 86%, 83%, 1);
+    /* --color1: hsla(45, 86%, 83%, 1);
     --color2: hsla(135, 65%, 98%, 1);
     --color3: hsla(315, 37%, 86%, 1);
     --color4: hsla(45, 73%, 98%, 1);
@@ -40,7 +40,7 @@ main {
 }
 
 section {
-    background-color:
+    background-color: var(--color4);
     max-width: 80%;
     display: flex;
     flex-direction: column;
