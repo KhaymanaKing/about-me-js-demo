@@ -13,6 +13,16 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 1. **Find all the 'events' (user clicks, form submit, on load etc) in your app. Ask one by one, "What happens when" for each of these events. Does any state change?**
 1. **Think about how to validate each of your features according to a Definition of Done**
 1. **Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.**
+Plan:
+
+Template: Head body, Main, Footer, Div
+1)Text for header and main footer
+2)Work on H1 (name, pronouns, loc)
+3)Add button and hidden div
+4)Hidden
+5)Add the click event listener
+6)Make it pretty with setting up rows in css for button and then for picture. Go for 4 rows maybe and then only fill the middle 2.
+
 
 Additional considerations:
 
@@ -24,3 +34,18 @@ Additional considerations:
     -   What needs to live in a persistence layer?
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
+
+![general planning](/My First Board.jpg)
+
+
+## Rubric
+
+| App should include . . .                                                            |  10 |
+| :---------------------------------------------------------------------------------- | --: |
+| Bio data shows on page, including name, pronouns, and where you live                |   1 |
+| Favorite animal is hidden on page load                                              |   2 |
+| Button with event listener shows favorite animal data                               |   2 |
+| README file with plan                                                               |   2 |
+| Repo has a commit history with multiple commits and commit messages that make sense |   1 |
+| Link in About section of repo to deployed site in Netlify                           |   1 |
+| Work is done on a dev branch and a PR link is submitted to Canvas                   |   1 |
