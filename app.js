@@ -4,6 +4,7 @@
 const showButton = document.getElementById('animalButton');
 const animal = document.getElementById('animalDiv');
 const animalTxt = document.getElementById('animalText');
+const goneButton = document.getElementById('yesbtn')
 
 // set event listeners 
     // get user input
@@ -14,3 +15,5 @@ showButton.addEventListener('click', () => {
     animalTxt.classList.toggle('hidden');
     animal.classList.toggle('hidden');
 });
+
+goneButton
